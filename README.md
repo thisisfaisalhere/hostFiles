@@ -13,6 +13,7 @@
 
 1. Press the Windows key.
 2. Type Notepad in the search field. In the search results, right-click Notepad and select Run as administrator.
-3. From Notepad, open the following file: c:\Windows\System32\Drivers\etc\hosts
-4. Make the necessary changes to the file. 
-5. Select File > Save to save your changes.
+3. From Notepad, open the following file: C:\Windows\System32\Drivers\etc\hosts
+4. Copy the content of 'hosts' for this repository.
+5. Paste it in the host file of your System.
+6. Select File > Save to save your changes.
