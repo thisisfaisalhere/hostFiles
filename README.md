@@ -1,5 +1,5 @@
 # hostFiles
-## This has list of all porn sites and AdAway adBlocker lists too
+## This Blocks all porn sites, Ad servers and trackers 
 
 ## For installation simply follow these steps
 
