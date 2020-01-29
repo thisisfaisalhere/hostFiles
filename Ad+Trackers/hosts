@@ -1,4 +1,3 @@
-# The following are hosts in the hpHosts database with the ATS classification ONLY.
 # This file will NOT protect you against malicious domains
 #
 127.0.0.1 localhost #IPv4 localhost
@@ -45742,4 +45741,5 @@
 127.0.0.1	zzptzdhugavot.review
 127.0.0.1	zzz.clickbank.net
 127.0.0.1	_thums.ero-advertising.com
+
 # Hosts: 45736

@@ -1,5 +1,8 @@
-127.0.0.1 localhost
-::1 localhost
+127.0.0.1 localhost #IPv4 localhost
+::1 localhost #IPv6 localhost
+#
+# PORN+Ad SERVERS START HERE
+#
 127.0.0.1 literotica.com
 127.0.0.1 nifty.org
 127.0.0.1 xnxx.com
@@ -64595,3 +64598,5 @@
 127.0.0.1 sdkevents.zapr.in
 127.0.0.1 amp.rd.linksynergy.com
 127.0.0.1 w.vip1.ams1.inmobi.com
+
+# Hosts: 64594
